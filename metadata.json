@@ -1,0 +1,6 @@
+{
+  "name": "PanditJee",
+  "description": "Authentic Vedic spiritual services, priests, and sacred travel yatras in Patna, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
